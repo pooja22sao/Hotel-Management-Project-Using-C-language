@@ -1,13 +1,12 @@
 # Project-Using-C-language
 
 ---
-Basic Mini Project.
+Hotel Management Project
 Using conditional statement, loops and functions. 
-Modules- Display Menu, Customer Order, Billing.
-
-
-- [x] Hotel Management Project
-
+Modules- 
+- [x] Display Menu
+- [x] Customer Order 
+- [x] Billing
 
 ---
 
